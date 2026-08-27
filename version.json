@@ -1,8 +1,8 @@
 {
-  "data_version": "20260826090541",
-  "url": "https://github.com/baldonidev/DailyDoseOfMagicData/releases/download/v20260826090541/cards.jsonl.gz",
-  "sets_url": "https://github.com/baldonidev/DailyDoseOfMagicData/releases/download/v20260826090541/sets.json",
-  "sha256": "537b5c79aa70b42106efc55b46c890926026942cdacb2bbffbda54162ee68c0d",
-  "size": 9746841,
-  "commanders_url": "https://github.com/baldonidev/DailyDoseOfMagicData/releases/download/v20260826090541/commanders.json"
+  "data_version": "20260827210541",
+  "url": "https://github.com/baldonidev/DailyDoseOfMagicData/releases/download/v20260827210541/cards.jsonl.gz",
+  "sets_url": "https://github.com/baldonidev/DailyDoseOfMagicData/releases/download/v20260827210541/sets.json",
+  "sha256": "38c1e4b07eaaba8bf8d2a4f8f8b5711886cef3ba45677ccd4d464d6ff80ab8ea",
+  "size": 9761894,
+  "commanders_url": "https://github.com/baldonidev/DailyDoseOfMagicData/releases/download/v20260827210541/commanders.json"
 }
